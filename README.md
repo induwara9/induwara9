@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Induwara Piyumal</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=induwara9&label=Profile%20views&color=0e75b6&style=flat" alt="induwara9" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=induwara9&label=Profile%20views&color=0e75b6&style=flat" alt="induwara9" /> </p>
+
+### My Topic
+
+---
 
 - 🔭 I’m currently working on **Rainware**
 
