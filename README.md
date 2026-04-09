@@ -25,7 +25,7 @@
     
 <p align="left">
 <a href="https://linkedin.com/in/induwara-piyumal-309b6b283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="induwara-piyumal-309b6b283" height="30" width="40" /></a>
-<a href="https://fb.com/induwara.piyumal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="induwara.piyumal" height="30" width="40" /></a>
+<a href="["](https://www.facebook.com/share/1DDudqLF4v/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="induwara.piyumal" height="30" width="40" /></a>
 <a href="https://instagram.com/induwara_piyumal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="induwara_piyumal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@codingmaster-xx1yl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@codingmaster-xx1yl" height="30" width="40" /></a>
 </p>
